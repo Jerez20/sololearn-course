@@ -8,7 +8,7 @@
 * [x] ```Modulo 4```
 * [x] ```Modulo 5```
 * [x] ```Modulo 6```
-* [] ```Modulo 7```
+* [x] ```Modulo 7```
 * [] ```Modulo 8```
 
 # Examenes
@@ -92,3 +92,29 @@ else
  * ¿Cuál es el resultado de este código? var arr = new Array ("a", "b", "c"); alerta (arr [1]);b
  * Arrastre y suelte las opciones siguientes para recibir una alerta con el valor de la constante PI.
  alert ( Math . Pi );
+ 
+  ```7```
+ 
+ * Complete los espacios en blanco para cambiar el contenido de todas las etiquetas de párrafo de la página a   "SoloLearn".
+ var arr = 
+ document.getElementsByTagName ("p");
+ para (var x = 0; x <longitud de arr.; x ++) 
+ { 
+   arr [
+ x
+ ] .innerHTML = "SoloLearn";
+ }
+ * ¿Cuál es el resultado de este código?
+ algo de texto
+ <script> var el = document.getElementById ("prueba"); alert (el.hasChildNodes ()); </script>
+ TRUE
+ * Arrastre y suelte las opciones siguientes para cambiar el color del párrafo con id = "p2" a rojo.
+ <script> var d = documento. getElementById ("p2"); d.style.color="red"; </script>
+ * ¿Puede manejar varios eventos en el mismo elemento HTML? Si
+ * Complete los espacios en blanco para alertar un mensaje cuando se hace clic en el botón. <botón onclick = "msg () "> Haz clic en mí
+ < script >
+ function msg () {
+ alert ( "¡Hola!" );
+ }
+ * Muestre una alerta cuando el puntero del mouse esté sobre la etiqueta div:
+ pon el puntero del mouse sobre mí
