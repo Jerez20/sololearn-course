@@ -6,7 +6,7 @@
 * [x] ```Modulo 2```
 * [x] ```Modulo 3```
 * [x] ```Modulo 4```
-* [] ```Modulo 5```
+* [x] ```Modulo 5```
 * [] ```Modulo 6```
 * [] ```Modulo 7```
 * [] ```Modulo 8```
@@ -74,3 +74,11 @@ else
 * ¿Cuál es la sintaxis correcta para hacer referencia a un script externo llamado "script.js"?
 // <script src = "script.js"> //
 * ¿Qué alerta se mostrará en la pantalla? función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));? 3
+
+ ```5```
+ * Las propiedades de un objeto son similares a las variables; los métodos son similares a: funciones
+ * ¿Cuál es el resultado de la siguiente expresión? var myString = "abcdef"; document.write (myString.length); 6
+ *  Complete la expresión para crear un constructor de objetos, teniendo en cuenta que "altura" y "peso" son propiedades y "calcular" es un método para el objeto dado: function mathCalc (altura, peso) {
+ this.height = height ;
+ this.weight = weight ;
+ this.sampleCalc = calculate ;
