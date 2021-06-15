@@ -4,7 +4,7 @@
 
 * [x] ```Modulo 1```
 * [x] ```Modulo 2```
-* [] ```Modulo 3```
+* [x] ```Modulo 3```
 * [] ```Modulo 4```
 * [] ```Modulo 5```
 * [] ```Modulo 6```
@@ -27,3 +27,29 @@ console.Iniciar sesión(x);
 12 // número,"algún texto" // string, cierto // boolean
 * ¿Cuál es el resultado de la expresión var1 && var2, si var1 = true y var2 = false? ***falso***
 * ¿Cuál es el resultado de este código? var x = 0; mientras (x <6) {x ++; } document.write (x);? 6
+
+```3```
+* ¿Cuál es el resultado de este código? var x = 0; mientras (x <6) {x ++; } document.write (x);
+***6***
+* Complete las palabras clave correctas para probar las condiciones:
+switch (día de la semana) {
+caso 1:
+caso 2:
+caso 3:
+caso 4:
+caso 5:
+document.write ("Días laborables");
+break ;
+caso 6:
+document.write ("sábado");
+break ;
+defecto:
+document.write ("Hoy es domingo");
+rotura;
+}
+* Complete las palabras clave correctas para componer un bucle:
+do {
+document.write (i);
+i ++;
+}
+while (i <10);
