@@ -7,7 +7,7 @@
 * [x] ```Modulo 3```
 * [x] ```Modulo 4```
 * [x] ```Modulo 5```
-* [] ```Modulo 6```
+* [x] ```Modulo 6```
 * [] ```Modulo 7```
 * [] ```Modulo 8```
 
@@ -82,3 +82,13 @@ else
  this.height = height ;
  this.weight = weight ;
  this.sampleCalc = calculate ;
+
+```6```
+ * Dada la matriz a continuación, complete la expresión para recibir una alerta con "manzana". var fruit = new Array ("pera", "naranja","manzana", "pomelo");
+ alerta (frutas 2 );
+ * ¿Cuál es el resultado de la siguiente expresión? alerta (Math.sqrt (36)); 6
+ * Complete los espacios en blanco para mostrar los minutos actuales: var fecha = nueva fecha (); 
+ alerta( date . get Minutos()); 
+ * ¿Cuál es el resultado de este código? var arr = new Array ("a", "b", "c"); alerta (arr [1]);b
+ * Arrastre y suelte las opciones siguientes para recibir una alerta con el valor de la constante PI.
+ alert ( Math . Pi );
